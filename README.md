@@ -91,9 +91,3 @@ This project presents the design, simulation, and performance characterization o
 
 ---
 
-## Author
-
-**Ayush Mohanty**
-
-Electronics & Instrumentation Engineering  
-NIT Rourkela
